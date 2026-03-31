@@ -1,2 +1,3 @@
 # Sprint1
-Creating a Java Project of habit tracking using photos and blogs
+Created a Java Project for E-Voting System.
+To use this project we have to change the sql credentials.
